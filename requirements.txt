@@ -1,12 +1,9 @@
-notebook
 openai
 pandas
 matplotlib
 scikit-learn
 numpy
-seaborn
-xgboost
-catboost
-lightgbm
 python-dotenv
-flask
+imblearn
+langchain_groq
+langchain
